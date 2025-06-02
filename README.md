@@ -27,17 +27,10 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
-
-![Ertugrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ertugrulctnk&show_icons=true&theme=radical&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ertugrulctnk&layout=compact&theme=radical)
-
----
-
 ## 📫 İletişim
 
 - LinkedIn: [linkedin.com/in/ertugrul-cetinkaya](https://www.linkedin.com/in/ertugrul-cetinkaya/)
-- E-posta: ertugrulctnk@gmail.com  
+- E-posta: ertugrulcetinkayatr@gmail.com  
 - GitHub: [github.com/Ertugrulctnk](https://github.com/Ertugrulctnk)
 
 ---
