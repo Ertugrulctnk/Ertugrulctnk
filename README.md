@@ -1,12 +1,12 @@
-# 👋 Merhaba, ben Ertuğrul Çetinkaya
+# 👋 Hi, I'm Ertuğrul Çetinkaya
 
 🎯 **Java Backend Developer**  
-💼 Aktif olarak Şekerbank'ta çalışıyorum  
-🔧 Mikroservis mimarileri, Spring Boot, REST API geliştirme, veritabanı tasarımı ve CI/CD süreçleri üzerinde çalışıyorum.
+💼 Currently working at Şekerbank  
+🔧 Focused on microservice architectures, Spring Boot development, database design, and CI/CD pipelines.
 
 ---
 
-## 🔧 Kullandığım Teknolojiler
+## 🔧 Technologies I Work With
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -18,21 +18,18 @@
 
 ---
 
-## 🔍 Hakkımda
+## 🔍 About Me
 
-- Java ile kurumsal seviye backend geliştirme yapıyorum.  
-- Spring Boot, Hibernate, Maven, Docker ve Jenkins gibi teknolojilerle mikroservis mimarisinde projeler geliştiriyorum.  
-- PostgreSQL, MySQL gibi ilişkisel veritabanlarıyla çalışıyorum.  
-- Takım çalışmasına yatkınım, temiz kod prensiplerine ve sürdürülebilir yazılım mimarisine önem veriyorum.  
+- I specialize in enterprise-level backend development with Java.  
+- I build scalable services using Spring Boot, Hibernate, Maven, Docker, and Jenkins.  
+- I’m experienced in working with relational databases like PostgreSQL and MySQL.  
+- I'm a strong believer in clean code principles and sustainable architecture.  
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/ertugrul-cetinkaya](https://www.linkedin.com/in/ertugrul-cetinkaya/)
-- E-posta: ertugrulcetinkayatr@gmail.com  
+- Email: ertugrulcetinkayatr@gmail.com  
 - GitHub: [github.com/Ertugrulctnk](https://github.com/Ertugrulctnk)
 
----
-
-> “Basitliği koruyarak karmaşık sistemleri yönetmek, iyi bir yazılım geliştiricinin işidir.”
